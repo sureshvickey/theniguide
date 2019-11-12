@@ -1,0 +1,424 @@
+{
+  "bus_list": [
+    {
+      "id": "1",
+      "bus_from": "Theni",
+      "bus_to": "Madurai",
+      "bus_via": "Usilampatti",
+      "bus_type": "1 - 1 Non Stop",
+      "bus_time": "6.10 AM, 10.01 AM, 2.24 PM, 5.50 PM",
+      "latitude": "9.9252",
+      "longitude": "78.1198"
+    },
+    {
+      "id": "2",
+      "bus_from": "Theni",
+      "bus_to": "Erode(Via-Dindigul)",
+      "bus_via": "Dindigul",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "8.30 AM, 9.20 AM, 10.40 AM, 11.50 AM, 2.50 PM, 7.50 PM, 9.05 PM",
+      "latitude": "11.3410",
+      "longitude": "77.7172"
+    },
+    {
+      "id": "3",
+      "bus_from": "Theni",
+      "bus_to": "Erode",
+      "bus_via": "Karur, Tiruchengodu",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "11.15 AM",
+      "latitude": "11.3410",
+      "longitude": "77.7172"
+    },
+    {
+      "id": "4",
+      "bus_from": "Theni",
+      "bus_to": "Sathyamangalam",
+      "bus_via": "Erode",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "8.20 AM",
+      "latitude": "11.5048",
+      "longitude": "77.2384"
+    },
+    {
+      "id": "5",
+      "bus_from": "Theni",
+      "bus_to": "Coimbatore(Via-Dharapuram)",
+      "bus_via": "Dharapuram, Palladam",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "5.15 AM, 7.25 AM, 8.00 AM, 9.05 AM, 9.35 AM, 10.15 AM, 11.15 AM, 12.15 PM, 1.25 PM, 2.15 PM, 2.40 PM, 3.10 PM, 4.20 PM, 5.15 PM, 6.10 PM, 9.30 PM, 9.45 PM, 10.00 PM, 10.45 PM, 11.00 PM, 11.15 PM, 11.50 PM ",
+      "latitude": "11.0168",
+      "longitude": "76.9558"
+    },
+    {
+      "id": "6",
+      "bus_from": "Theni",
+      "bus_to": "Coimbatore(Via-Palani)",
+      "bus_via": "Palani, Pollachi",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "3.25 AM, 4.50 AM, 6.25 AM, 7.40 AM, 8.15 AM, 9.12 AM, 9.52 AM, 10.50 AM, 12.50 PM, 1.40 PM, 4.00 PM, 8.00 PM, 9.20 PM",
+      "latitude": "11.0168",
+      "longitude": "76.9558"
+    },
+    {
+      "id": "7",
+      "bus_from": "Theni",
+      "bus_to": "Nagore",
+      "bus_via": "Dindigul, Trichy",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "4.15 AM, 4.50 PM",
+      "latitude": "10.8128",
+      "longitude": "79.8391"
+    },
+    {
+      "id": "8",
+      "bus_from": "Theni",
+      "bus_to": "Chidambaram",
+      "bus_via": "Dindigul, Trichy",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "8.05 AM, 6.00 PM",
+      "latitude": "11.3982",
+      "longitude": "79.6954"
+    },
+    {
+      "id": "9",
+      "bus_from": "Theni",
+      "bus_to": "Velankanni",
+      "bus_via": "Dindigul, Trichy",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "5.35 PM",
+      "latitude": "10.6819",
+      "longitude": "79.8437"
+    },
+    {
+      "id": "10",
+      "bus_from": "Theni",
+      "bus_to": "Rameswaram",
+      "bus_via": "Madurai",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "6.45 AM, 8.00 AM, 8.20 AM, 10.20 AM, 1.50 PM, 4.23 PM",
+      "latitude": "9.2876",
+      "longitude": "79.3129"
+    },
+    {
+      "id": "11",
+      "bus_from": "Theni",
+      "bus_to": "Ramanathapuram",
+      "bus_via": "Madurai",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "6.32 AM, 9.15 AM, 9.59 AM, 5.20 PM",
+      "latitude": "9.3647",
+      "longitude": "78.8351"
+    },
+    {
+      "id": "12",
+      "bus_from": "Theni",
+      "bus_to": "Ervadi",
+      "bus_via": "Madurai, Ramanathapuram",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "7.45 AM, 9.14 AM, 5.24 PM",
+      "latitude": "9.2192",
+      "longitude": "78.7108"
+    },
+    {
+      "id": "13",
+      "bus_from": "Theni",
+      "bus_to": "Aruppukottai",
+      "bus_via": "Madurai",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "11.12 AM, 12.20 PM, 9.09 PM, 9.18 PM",
+      "latitude": "9.5156",
+      "longitude": "78.1000"
+    },
+    {
+      "id": "14",
+      "bus_from": "Theni",
+      "bus_to": "Tirunelveli",
+      "bus_via": "Rajapalayam, Sankarankovil",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "12.15 AM, 2.15 AM, 5.35 AM, 7.00 AM, 8.00 AM, 8.40 AM, 10.30 AM, 11.30 AM, 12.40 PM, 2.00 PM, 3.25 PM, 4.20 PM, 5.00 PM, 5.25 PM, 5.40 PM, 7.30 PM, 9.00 PM, 10.30 PM, 11.00 PM",
+      "latitude": "8.7139",
+      "longitude": "77.7567"
+    },
+    {
+      "id": "15",
+      "bus_from": "Theni",
+      "bus_to": "Kanyakumari",
+      "bus_via": "Rajapalayam",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "6.30 AM, 7.30 AM, 11.45 PM, 12.25 PM",
+      "latitude": "8.0883",
+      "longitude": "77.5385"
+    },
+    {
+      "id": "16",
+      "bus_from": "Theni",
+      "bus_to": "Nagercoil",
+      "bus_via": "Rajapalayam",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "8.15 AM, 11.00 AM, 12.25 PM, 8.30 PM, 9.30 PM, 11.30 PM ",
+      "latitude": "8.1833",
+      "longitude": "77.4119"
+    },
+    {
+      "id": "17",
+      "bus_from": "Theni",
+      "bus_to": "Marthandam",
+      "bus_via": "Rajapalayam",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "4.40 AM",
+      "latitude": "8.3075",
+      "longitude": "77.2218"
+    },
+    {
+      "id": "18",
+      "bus_from": "Theni",
+      "bus_to": "Kaliakkavilai",
+      "bus_via": "Rajapalayam",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "6.00 PM",
+      "latitude": "8.3318",
+      "longitude": "77.1744"
+    },
+    {
+      "id": "19",
+      "bus_from": "Theni",
+      "bus_to": "Munnar",
+      "bus_via": "Bodi, Devikulam",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "12.45 AM, 1.10 AM, 1.45 AM, 2.20 AM, 3.30 AM, 5.00 AM, 6.15 AM, 6.45 AM, 7.35 AM, 8.00 AM, 9.15 AM, 9.50 AM, 10.05 AM, 10.45 AM, 11.15 AM, 12.15 PM, 12.45 PM, 1.15 PM, 1.45 PM, 2.30 PM, 3.30 PM, 4.05 PM, 5.00 PM, 5.30 PM, 9.00 PM",
+      "latitude": "10.0889",
+      "longitude": "77.0595"
+    },
+    {
+      "id": "20",
+      "bus_from": "Theni",
+      "bus_to": "Iravangalar",
+      "bus_via": "Chinnamanur",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "3.30 AM, 4.00 AM",
+      "latitude": "9.6461",
+      "longitude": "77.4013"
+    },
+    {
+      "id": "21",
+      "bus_from": "Theni",
+      "bus_to": "Trichy",
+      "bus_via": "Periyakulam, Dindigul",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "12.45 AM, 3.00 AM, 4.45 AM, 4.55 AM, 5.30 AM, 6.10 AM, 7.05 AM, 7.40 AM, 8.15 AM, 8.55 AM, 9.15 AM, 9.20 AM, 9.30 AM, 10.05 AM, 10.15 AM, 11.10 AM, 11.45 AM, 12.45 PM, 1.40 PM, 2.15 PM, 2.50 PM, 3.10 PM, 3.55 PM, 4.40 PM, 6.30 PM, 7.20 PM, 8.10 PM, 8.50 PM, 11.55 PM ",
+      "latitude": "10.7905",
+      "longitude": "78.7047"
+    },
+    {
+      "id": "22",
+      "bus_from": "Theni",
+      "bus_to": "Ariyalur",
+      "bus_via": "Dindigul, Trichy",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "10.45 AM, 9.40 PM",
+      "latitude": "11.1401",
+      "longitude": "79.0786"
+    },
+    {
+      "id": "23",
+      "bus_from": "Theni",
+      "bus_to": "Poondi",
+      "bus_via": "Dindigul, Trichy",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "6.00 AM",
+      "latitude": "13.2081",
+      "longitude": "79.8815"
+    },
+    {
+      "id": "24",
+      "bus_from": "Theni",
+      "bus_to": "Thuraiyur",
+      "bus_via": "Dindigul, Trichy",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "10.16 AM",
+      "latitude": "11.1415",
+      "longitude": "78.5945"
+    },
+    {
+      "id": "25",
+      "bus_from": "Theni",
+      "bus_to": "Salem",
+      "bus_via": "Dindigul, Karur",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "9.10 AM, 9.50 AM, 1.30 PM, 1.35 PM, 5.10 PM, 5.35 PM, 22.15 PM",
+      "latitude": "11.6643",
+      "longitude": "78.1460"
+    },
+    {
+      "id": "26",
+      "bus_from": "Theni",
+      "bus_to": "Thanjavur",
+      "bus_via": "Dindigul, Trichy",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "11.35 AM",
+      "latitude": "10.7870",
+      "longitude": "79.1378"
+    },
+    {
+      "id": "27",
+      "bus_from": "Theni",
+      "bus_to": "Mannarkudi",
+      "bus_via": "Dindigul, Trichy",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "11.20 AM ",
+      "latitude": "10.6649",
+      "longitude": "79.4507"
+    },
+    {
+      "id": "28",
+      "bus_from": "Theni",
+      "bus_to": "Kumbakonam",
+      "bus_via": "Dindigul, Trichy",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "8.00 PM",
+      "latitude": "10.9617",
+      "longitude": "79.3881"
+    },
+    {
+      "id": "29",
+      "bus_from": "Theni",
+      "bus_to": "Cuddalore",
+      "bus_via": "Dindigul, Trichy",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "9.35 AM",
+      "latitude": "11.7480",
+      "longitude": "79.7714"
+    },
+    {
+      "id": "30",
+      "bus_from": "Theni",
+      "bus_to": "Sivagangai",
+      "bus_via": "Madurai",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "7.05 AM, 11.38 AM, 4.40 PM",
+      "latitude": "9.8433",
+      "longitude": "78.4809"
+    },
+    {
+      "id": "31",
+      "bus_from": "Theni",
+      "bus_to": "Thondi",
+      "bus_via": "Madurai",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "10.00 AM, 10.55 PM",
+      "latitude": "9.7438",
+      "longitude": "79.0185"
+    },
+    {
+      "id": "32",
+      "bus_from": "Theni",
+      "bus_to": "Karaikudi",
+      "bus_via": "Madurai",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "5.00 AM, 6.37 AM, 8.40 AM, 12.00 PM, 3.30 PM, 5.15 PM, 8.37 PM",
+      "latitude": "10.0731",
+      "longitude": "78.7802"
+    },
+    {
+      "id": "33",
+      "bus_from": "Theni",
+      "bus_to": "Aranthangi",
+      "bus_via": "Madurai",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "3.31 PM",
+      "latitude": "10.1692",
+      "longitude": "79.0023"
+    },
+    {
+      "id": "34",
+      "bus_from": "Theni",
+      "bus_to": "Sivakasi",
+      "bus_via": "T.Kallupatti",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "10.05 AM, 10.20 AM, 11.40 AM, 3.45 PM, 5.20 PM, 7.00 PM, 8.00 PM, 9.40 PM",
+      "latitude": "9.4533",
+      "longitude": "77.8024"
+    },
+    {
+      "id": "35",
+      "bus_from": "Theni",
+      "bus_to": "Sengottai",
+      "bus_via": "Rajapalayam",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "6.15 AM, 7.20 AM, 1.10 PM, 1.35 PM, 2.50 PM, 3.50 PM, 4.45 PM, 10.00 PM",
+      "latitude": "8.9751",
+      "longitude": "77.2491"
+    },
+    {
+      "id": "36",
+      "bus_from": "Theni",
+      "bus_to": "Thenkasi",
+      "bus_via": "Rajapalayam",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "9.35 AM, 2.20 PM, 9.20 PM",
+      "latitude": "8.9590",
+      "longitude": "77.3129"
+    },
+    {
+      "id": "37",
+      "bus_from": "Theni",
+      "bus_to": "Kutralam",
+      "bus_via": "Rajapalayam",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "4.00 AM, 9.30 AM, 4.35 PM",
+      "latitude": "8.9339",
+      "longitude": "77.2780"
+    },
+    {
+      "id": "38",
+      "bus_from": "Theni",
+      "bus_to": "Papanasam",
+      "bus_via": "Rajapalayam",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "10.15 AM",
+      "latitude": "10.9252",
+      "longitude": "79.2708"
+    },
+    {
+      "id": "39",
+      "bus_from": "Theni",
+      "bus_to": "Thiruchendur",
+      "bus_via": "Madurai",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "12.45 AM, 4.30 AM, 7.36 AM, 10.30 AM, 11.00 AM, 12.00 PM, 2.15 PM, 4.35 PM, 6.15 PM, 11.25 PM",
+      "latitude": "8.4963",
+      "longitude": "78.1251"
+    },
+    {
+      "id": "40",
+      "bus_from": "Theni",
+      "bus_to": "Nedumkandam",
+      "bus_via": "Chinnamanur, Cumbum",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "12.00 AM, 8.20 AM",
+      "latitude": "9.8363",
+      "longitude": "77.1571"
+    },
+    {
+      "id": "41",
+      "bus_from": "Theni",
+      "bus_to": "Suryanelli",
+      "bus_via": "Bodi ",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "4.00 AM",
+      "latitude": "10.0600",
+      "longitude": "77.2118"
+    },
+    {
+      "id": "42",
+      "bus_from": "Theni",
+      "bus_to": "Kajanaparai",
+      "bus_via": "Bodi",
+      "bus_type": "Ordinary 3x2 Seater",
+      "bus_time": "4.30 AM, 10.15 AM, 4.15 PM",
+      "latitude": "9.9925",
+      "longitude": "77.1461"
+    }
+  ]
+}

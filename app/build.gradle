@@ -1,0 +1,55 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+    lintOptions {
+
+        checkReleaseBuilds false
+
+    }
+    defaultConfig {
+        applicationId "com.thenikaran.guide"
+        minSdkVersion 18
+        targetSdkVersion 28
+        versionCode 6
+        versionName "1.0.2"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    useLibrary 'org.apache.http.legacy'
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'com.jakewharton:butterknife:7.0.1'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'com.squareup.retrofit:retrofit:1.9.0'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.12.1'
+    implementation 'com.romandanylyk:pageindicatorview:0.2.0@aar'
+    implementation 'com.nineoldandroids:library:2.4.0'
+    implementation 'com.daimajia.slider:library:1.1.5@aar'
+    implementation 'fr.avianey.com.viewpagerindicator:library:2.4.1@aar'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.0-beta2'
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.google.firebase:firebase-messaging:20.0.0'
+    implementation 'com.google.firebase:firebase-core:17.1.0'
+    implementation 'com.google.firebase:firebase-ads:18.1.1'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'com.google.android.gms:play-services-maps:17.0.0'
+    implementation 'com.google.android.gms:play-services-location:17.0.0'
+    implementation 'androidx.multidex:multidex:2.0.1'
+    annotationProcessor 'com.jakewharton:butterknife:7.0.1'
+}
+apply plugin: 'com.google.gms.google-services'

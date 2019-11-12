@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dest_list">
+        <item>Select</item>
+        <item>Aranthangi</item>
+        <item>Ariyalur</item>
+        <item>Aruppukottai</item>
+        <item>Chidambaram</item>
+        <item>Coimbatore(Via-Palani)</item>
+        <item>Coimbatore(Via-Dharapuram)</item>
+        <item>Cuddalore</item>
+        <item>Erode</item>
+        <item>Erode(Via-Dindigul)</item>
+        <item>Ervadi</item>
+        <item>Iravangalar</item>
+        <item>Kajanaparai</item>
+        <item>Kaliakkavilai</item>
+        <item>Kanyakumari</item>
+        <item>Karaikudi</item>
+        <item>Kumbakonam</item>
+        <item>Kutralam</item>
+        <item>Madurai</item>
+        <item>Mannarkudi</item>
+        <item>Marthandam</item>
+        <item>Munnar</item>
+        <item>Nagercoil</item>
+        <item>Nagore</item>
+        <item>Nedumkandam</item>
+        <item>Papanasam</item>
+        <item>Poondi</item>
+        <item>Ramanathapuram</item>
+        <item>Rameswaram</item>
+        <item>Salem</item>
+        <item>Sathyamangalam</item>
+        <item>Sengottai</item>
+        <item>Sivagangai</item>
+        <item>Sivakasi</item>
+        <item>Suryanelli</item>
+        <item>Thanjavur</item>
+        <item>Thenkasi</item>
+        <item>Thiruchendur</item>
+        <item>Thondi</item>
+        <item>Thuraiyur</item>
+        <item>Tirunelveli</item>
+        <item>Trichy</item>
+        <item>Velankanni</item>
+    </string-array>
+</resources>

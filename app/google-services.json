@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1047322176761",
+    "firebase_url": "https://theniguide-5338c.firebaseio.com",
+    "project_id": "theniguide-5338c",
+    "storage_bucket": "theniguide-5338c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047322176761:android:b256413614ee59ce",
+        "android_client_info": {
+          "package_name": "com.thenikaran.guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047322176761-7tac8er5a6p4mffvr4belsfdetcdecch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4qa25iF34uqlHuF_EivJSjVLdSTOesrM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
